@@ -1227,3 +1227,10 @@ footer > div > p {
     }
 
 }
+
+.design-by{
+    text-align: center;
+    font-size: 12px;
+    color: var(--wine);
+    margin-top: 0px;
+}
